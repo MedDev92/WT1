@@ -7,6 +7,9 @@ public class Test {
     	/****
     	 * 
     	 */
-        System.out.println("Hello");
+    	String message = "hello" ;
+    	// 1 ere modification par M. Toufik 
+        System.out.println(message);
+        
     }
 }
