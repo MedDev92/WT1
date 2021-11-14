@@ -10,6 +10,8 @@ public class Test {
     	String message = "hello" ;
     	// 1 ere modification par M. Toufik 
         System.out.println(message);
+        //****Modification par M.MISSAOU
+        System.err.println("Modification réalisée");
         
     }
 }
